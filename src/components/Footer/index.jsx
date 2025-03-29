@@ -21,7 +21,7 @@ const Footer = () => (
         </div>
       </div>
       <div className="mt-4 pt-4 border-t border-gray-700 text-center text-sm text-gray-400">
-        <p>&copy; 2025 CloudMart. All rights reserved.</p>
+        <p>&copy; 2024 CloudMart. All rights reserved.</p>
       </div>
     </div>
   </footer>
